@@ -13,7 +13,7 @@ This repository summarizes the core concepts and methodologies covered in COGS10
 - <b>TensorFlow </b>
 - <b>CleverBot </b>
 - <b>ELIZA </b>
-- <b>ELIZA </b>
+- <b>DeepAI </b>
 
 <h2>Environments Used </h2>
 
